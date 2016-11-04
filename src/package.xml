@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
         <members>demo</members>
@@ -6,11 +6,11 @@
     </types>
     <types>
         <members>*</members>
-        <name>ApexPage</name>
+        <name>ApexComponent</name>
     </types>
     <types>
         <members>*</members>
-        <name>ApexComponent</name>
+        <name>ApexPage</name>
     </types>
     <types>
         <members>*</members>
